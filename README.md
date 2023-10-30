@@ -40,4 +40,5 @@ Use a triangular hollow arrow with a solid line to represent the generalization 
 ![Alt ​​text](pic9.png)
 ### The difference between an encompassing relationship
 ![Alt ​​text](pic10.png)
+### References:
 https://blog.csdn.net/thehellovie/article/details/129429312
