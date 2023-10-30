@@ -36,6 +36,8 @@ Use a dotted line with an arrow pointing from the extended use case to the base 
 ### 8.Generalization
 Use a triangular hollow arrow with a solid line to represent the generalization relationship. The triangular arrow points from the child to the parent. Child actors inherit all relationships of parent actors, and child use cases inherit all structures, behaviors, and relationships of parent use cases.
 ![Alt ​​text](pic8.png)
-
-#### references
+#Example Use Case Diagram
+![Alt ​​text](pic9.png)
+### The difference between an encompassing relationship
+![Alt ​​text](pic10.png)
 https://blog.csdn.net/thehellovie/article/details/129429312
